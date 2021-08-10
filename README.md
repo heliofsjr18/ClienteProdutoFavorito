@@ -1,1 +1,1 @@
-# ClienteProdutoFavoritoMagalu
+# FavoriteClient
